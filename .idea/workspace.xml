@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0934b749-4a65-40f8-925b-fe819796832f" name="Changes" comment="Add file">
-      <change beforePath="$PROJECT_DIR$/Independent work 2/07_Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Independent work 2/07_Sequence.py" afterDir="false" />
+    <list default="true" id="0934b749-4a65-40f8-925b-fe819796832f" name="Changes" comment="Fix print">
+      <change afterPath="$PROJECT_DIR$/Independent work 2/08_Day_Week.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +92,7 @@
     "Python.06_Div_3.executor": "Run",
     "Python.07_Fact_value.executor": "Run",
     "Python.07_Sequence.executor": "Run",
+    "Python.08_Day_Week.executor": "Run",
     "Python.08_Fibonacci.executor": "Run",
     "Python.10_Summ_odd_number.executor": "Run",
     "Python.Day_and_Month.executor": "Run",
@@ -194,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723051131059</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fix print">
+      <option name="closed" value="true" />
+      <created>1723051940432</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723051940432</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,6 +212,7 @@
     <MESSAGE value="Fix first func" />
     <MESSAGE value="Fix last func" />
     <MESSAGE value="Add file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file" />
+    <MESSAGE value="Fix print" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix print" />
   </component>
 </project>
