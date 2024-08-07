@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0934b749-4a65-40f8-925b-fe819796832f" name="Changes" comment="Fix first func">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent work 2/05_sum_project/Edit_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent work 2/05_sum_project/Executive_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Independent work 2/05_sum_project/Result_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Independent work 2/05_Sum_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Independent work 2/05_sum_project/Input_value.py" afterDir="false" />
+    <list default="true" id="0934b749-4a65-40f8-925b-fe819796832f" name="Changes" comment="Fix last func">
+      <change afterPath="$PROJECT_DIR$/Independent work 2/Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +95,7 @@
     "Python.10_Summ_odd_number.executor": "Run",
     "Python.Day_and_Month.executor": "Run",
     "Python.Executive_file.executor": "Run",
+    "Python.Triangle.executor": "Run",
     "Python.def_max_second.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "mainHB"
@@ -176,12 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722969617012</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fix last func">
+      <option name="closed" value="true" />
+      <created>1723042786287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723042786287</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add File" />
     <MESSAGE value="Fix first func" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix first func" />
+    <MESSAGE value="Fix last func" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix last func" />
   </component>
 </project>
