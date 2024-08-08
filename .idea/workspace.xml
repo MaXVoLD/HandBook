@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0934b749-4a65-40f8-925b-fe819796832f" name="Changes" comment="Fix print">
-      <change afterPath="$PROJECT_DIR$/Independent work 2/08_Day_Week.py" afterDir="false" />
+    <list default="true" id="0934b749-4a65-40f8-925b-fe819796832f" name="Changes" comment="Add file">
+      <change afterPath="$PROJECT_DIR$/Independent work 2/09_Greater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Independent work 2/10_Equalized.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +95,8 @@
     "Python.07_Sequence.executor": "Run",
     "Python.08_Day_Week.executor": "Run",
     "Python.08_Fibonacci.executor": "Run",
+    "Python.09_Greater.executor": "Run",
+    "Python.10_Equalized.executor": "Run",
     "Python.10_Summ_odd_number.executor": "Run",
     "Python.Day_and_Month.executor": "Run",
     "Python.Executive_file.executor": "Run",
@@ -204,15 +207,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723051940432</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add file">
+      <option name="closed" value="true" />
+      <created>1723054891504</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723054891504</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add File" />
     <MESSAGE value="Fix first func" />
     <MESSAGE value="Fix last func" />
-    <MESSAGE value="Add file" />
     <MESSAGE value="Fix print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix print" />
+    <MESSAGE value="Add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file" />
   </component>
 </project>
